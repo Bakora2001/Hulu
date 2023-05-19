@@ -1,0 +1,6 @@
+plugins
+=======
+tailwind scrollbar hide -  https://www.npmjs.com/package/tailwind-scrollbar-hide
+
+react-flip-move
+
